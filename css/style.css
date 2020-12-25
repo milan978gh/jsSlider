@@ -259,6 +259,8 @@ Slider
     height: 65vh;
   }
 }
+
+/* slide stacking */
 /* .slide:nth-child(1){
   left: 0;
 }
